@@ -18,12 +18,13 @@ body {
 	
 }
 
- h1, h2 {
-  color: #9BABA6;
-}
-
-h1  {
-  font-size: 5em;
+h1 {
+	padding-bottom: 10px;
+	margin: 0 0 5px;
+	font-size: 5em;
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
+	border-bottom: 1px solid #ccc;
 }
 
 /* Write all remaining styles here */
